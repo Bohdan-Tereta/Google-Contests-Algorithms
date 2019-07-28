@@ -5,3 +5,7 @@ Algorithms from Google Kickstart, CodeJam and other contests implemented by me, 
 - Mural
 - Kickstart Alarm
 
+2019-07-28        CodeJam Round D 2019
+- Latest Guests - half points
+- Food Stalls - half points
+
